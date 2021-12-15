@@ -1,2 +1,4 @@
-        game.Players.localPlayer:Kick("รันหาพ่อมึงดิ ใครให้กดexecute")
+games:Player.LocalPlayer:kick("Banned!! 9999year")
+        wait("3")
+        game:Shutdown()
 end
